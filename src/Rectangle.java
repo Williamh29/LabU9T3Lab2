@@ -7,6 +7,7 @@ import java.awt.Graphics;
 public class Rectangle extends Shape {
     /** Constructor */
     public Rectangle() {
+
         super();  // call parent constructor (note the parent's constructor has no parameters)
     }
 
